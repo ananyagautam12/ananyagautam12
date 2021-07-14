@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ananya Gautam
+- 👀 I’m interested in Data Science
+- 💞️ I’m looking to collaborate on interesting projects on Data Science
+- 📫 You can reach me at ananyagautam.iitkgp@gmail.com
